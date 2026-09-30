@@ -9,7 +9,7 @@ Each exercise follows the same structure: **question → data and source → met
 | # | Exercise | Question | Tools |
 |---|---|---|---|
 | 01 | [Cable route](01-cable-route/) | Least-cost grid connection for a wind farm, with three connection points compared | ArcGIS Pro, Spatial Analyst, arcpy |
-| 02 | Wind farm planning | Which of two wind farm sites has less visual impact on recreation areas? | *planned* |
+| 02 | [Wind farm visibility](02-wind-farm-visibility/) | Which of two wind farm sites has less visual impact on recreation areas? | ArcGIS Pro, Spatial Analyst |
 | 03 | Solar radiation | Solar potential on roofs | *planned* |
 | 04 | Hidden areas | Sites for a solar park hidden from critical infrastructure | *planned* |
 
