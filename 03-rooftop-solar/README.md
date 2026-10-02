@@ -4,7 +4,7 @@
 
 *In January the orientation of a roof plane decides more than its location – and the course parameters make every absolute value far too low.*
 
-![Map of mean irradiation per roof surface](GUE08_Solarstrahlung_map.png)
+![Map of mean irradiation per roof surface](GUE_08_Solarstrahlung_map.png)
 
 | File | Content |
 |---|---|
