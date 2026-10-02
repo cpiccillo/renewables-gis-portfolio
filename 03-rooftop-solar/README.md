@@ -8,8 +8,8 @@
 
 | File | Content |
 |---|---|
-| [GUE08_Solarstrahlung_description.pdf](GUE08_Solarstrahlung_description.pdf) | One-page description: question, data, method, result, limits |
-| [GUE08_Solarstrahlung_map.pdf](GUE08_Solarstrahlung_map.pdf) | Map layout (A4, vector) |
+| [GUE_08_Solarstrahlung_description.pdf](GUE_08_Solarstrahlung_description.pdf) | One-page description: question, data, method, result, limits |
+| [GUE_08_Solarstrahlung_map.pdf](GUE_08_Solarstrahlung_map.pdf) | Map layout (A4, vector) |
 
 > Guided course exercise: the task, its parameters and the data were set by GIS-Akademie GmbH, where the core workflow was demonstrated in class. I repeated the analysis on my own; data checks, roof-edge treatment, climate comparison, map and assessment are my own work.
 
